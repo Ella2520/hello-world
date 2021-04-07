@@ -1,3 +1,3 @@
 # hello-world
 just a repository
-I like QA testing.
+ilike testing
